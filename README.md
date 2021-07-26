@@ -1,3 +1,3 @@
-# Kokoa CLone 2021 Update
+# Kokoa Clone 2021 Update
 
 Hi 
